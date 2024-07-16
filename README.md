@@ -1,4 +1,4 @@
-# CODTECH-Task3
+# CODTECH-Task2
 Name: Karthiyayini.S
 
 Company: CODETECH IT SOLUTIONS
